@@ -1,5 +1,3 @@
-# Kytz
+# Mlkut
 
-> Soaring in the Cloud, but you pull the strings. 
-
-Kytz (pronounced Kites) is a set of tools and standards to enable user agency and credible exit.
+Mlkut ([ملكوت](https://fr-audio.howtopronounce.com/174273687367e00de9eafec.mp3)) is an extension of the web platform -with the benefit of hindshight- to empower individuals, communities, and developers while commoditizing and depoliticizing the Cloud.
